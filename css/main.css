@@ -3,3 +3,18 @@ html {
   background-color: #495562;
   color: #fff;
 }
+
+.banner-img {
+  max-height: 500px;
+}
+
+.btn-main {
+  color: #efefef;
+  border-color: #97a49b;
+}
+
+.btn-main:hover {
+  background-color: #efefef;
+  border-color: #efefef;
+  color: #495562;
+}
